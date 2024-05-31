@@ -27,5 +27,5 @@ You can often find me indulging in delicious food from around the world. From ex
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kosu-layefa-1864a62b0/)
-- [Twitter](x.com/lytoftheworld)
+- [Twitter](https://x.com/lytoftheworld)
 - [Instagram](https://www.instagram.com/tech_blackgirl)
