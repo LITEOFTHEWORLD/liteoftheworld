@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Kosu Layefa]!
+# 👋🏿 Hello, I'm Kosu Layefa!
 
 ![Profile Banner](link_to_banner_image)
 
