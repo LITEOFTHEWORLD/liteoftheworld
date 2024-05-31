@@ -1,7 +1,5 @@
 # 👋🏿 Hello, I'm Kosu Layefa!
 
-![Profile Banner](link_to_banner_image)
-
 I'm a passionate Black female frontend developer with a love for creating sleek and functional user interfaces. My goal is to craft engaging digital experiences that not only look great but also provide seamless usability.
 
 ## 💻 My Stack
